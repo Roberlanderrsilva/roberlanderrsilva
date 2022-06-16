@@ -18,7 +18,10 @@
   
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"alt="Rafa-CSS" height="30" width="40"  src="https://img.icons8.com/external-justicon-flat-justicon/64/undefined/external-gmail-social-media-justicon-flat-justicon.png"/>
+  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://img.icons8.com/plasticine/100/undefined/github-squared.png"/>
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://img.icons8.com/fluency/48/undefined/linkedin.png"/>
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://img.icons8.com/doodle/48/undefined/youtube--v1.png"/>
   
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+ 
