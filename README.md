@@ -14,6 +14,7 @@
    <img align="center" alt="Rafa-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/git.png"/>
    <img align="center" alt="Rafa-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/linux--v1.png"/>
    <img align="center" alt="Rafa-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/ubuntu--v1.png"/>
+    <img align="center" alt="Rafa-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/windows-logo.png"/>
   </div>   
   <div>
      <a href = "mailto:roberlanderrsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
