@@ -1,4 +1,8 @@
-## Olá, eu sou o Roberlande Silva, e busco oportunidade de transição de carreira, amo programação e tecnologia!
+## Olá, eu sou o Roberlande Silva, e busco oportunidade de transição de carreira, programação e tecnologia!
+### Me segue que retribuo !
+No LinkedIn:  https://www.linkedin.com/in/roberlande-silva-68bb151b8/
+Na DIO:      https://web.dio.me/users/roberlanderrsilva?tab=achievements
+
 <div align="center">
   <a href="https://github.com/Roberlanderrsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberlanderrsilva&show_icons=true&theme=GitHub Dark Default&include_all_commits=true&count_private=true"/>
