@@ -26,5 +26,5 @@
      <a href="https://www.linkedin.com/in/roberlande-silva-68bb151b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://www.instagram.com/roberlandedasilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://discord.com/channels/@me/948042186321166366" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <img align="right" alt="Roberlande-pic" height="200" src=https://sdk.bitmoji.com/render/panel/a3be7021-1e41-4872-9df9-cef7d0b284f2-4a4175b5-e222-428c-84c1-9d43a451465e-v1.png?transparent=1&palette=11 - style="max-width: 100%;">
+    <img align="right" alt="Roberlande-pic" height="300" src=https://sdk.bitmoji.com/render/panel/a3be7021-1e41-4872-9df9-cef7d0b284f2-4a4175b5-e222-428c-84c1-9d43a451465e-v1.png?transparent=1&palette=11 - style="max-width: 100%;">
   </div>
