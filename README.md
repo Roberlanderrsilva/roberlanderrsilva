@@ -19,7 +19,8 @@
    <img align="center" alt="Rafa-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/linux--v1.png"/>
    <img align="center" alt="Rafa-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/ubuntu--v1.png"/>
     <img align="center" alt="Rafa-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/windows-logo.png"/>
-  </div>   
+  </div>  
+  <h2 dir="auto"></h2>
   <div>
      <a href = "mailto:roberlanderrsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/roberlande-silva-68bb151b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
