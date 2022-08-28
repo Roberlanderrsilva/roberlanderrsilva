@@ -1,14 +1,20 @@
 ##  Olá, eu sou o Roberlande Silva, busco oportunidade de transição de carreira, Programação e Tecnologia da Informação.
 ### Me segue que retribuo !
+<h1 dir="auto"></h1>
                        No LinkedIn:  https://www.linkedin.com/in/roberlande-silva-68bb151b8/
+                       <h1 dir="auto"></h1>                                                                                                                                                                                                                                                                                                               
                             Na DIO:  https://web.dio.me/users/roberlanderrsilva?tab=achievements
+                            <h1 dir="auto"></h1>
+                            <h1 dir="auto"></h1>
+              
 
 <div align="center">
   <a href="https://github.com/Roberlanderrsilva">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Roberlanderrsilva&show_icons=true&theme=GitHubDracula&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberlanderrsilva&layout=compact&langs_count=7&theme=GitHub Dracula"/>
 </div>
-
+<h1 dir="auto"></h1>
+  <h1 dir="auto"></h1>
 <div style="display: inline_block"><br>
   
   <h3><img align="center" line-height= "100" alt="Roberlande-Js"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,3 +39,4 @@
     
     
   </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                  
