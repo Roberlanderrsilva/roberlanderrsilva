@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://github.com/Roberlanderrsilva">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Roberlanderrsilva&show_icons=true&theme=GitHubDracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberlanderrsilva&layout=compact&langs_count=7&theme=GitHub Dracula"/>
+  
 </div>
 <h1 dir="auto"></h1>
   <h1 dir="auto"></h1>
