@@ -1,4 +1,4 @@
-##  Olá, eu sou o Roberlande Silva, busco oportunidade de transição de carreira, Programação e Tecnologia da Informação.
+##  Olá, eu sou o Roberlande Silva, busco oportunidade de transição de carreira, Programação e Tecnologias.
 
 ### Me segue que retribuo !
 <h1 dir="auto"></h1>
