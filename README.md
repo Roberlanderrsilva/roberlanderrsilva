@@ -1,4 +1,5 @@
 ##  Olá, eu sou o Roberlande Silva, busco oportunidade de transição de carreira, Programação e Tecnologias.
+#Acredito que a tecnologia é a ferramenta que conecta pessoas nos proporcionando uma vida melhor e o idiomas derruba as fronteiras e nos qualifica a cidadãos do mundo...
 
 ### Me segue que retribuo !
 <h1 dir="auto"></h1>
