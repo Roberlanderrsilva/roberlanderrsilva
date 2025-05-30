@@ -4,13 +4,10 @@
 ### Me segue que retribuo !
 <h1 dir="auto"></h1>
 
- #MeuCurrículoOnLine:  
-         https://roberlanderrsilva.github.io/Web-curriculo/
-          <h1 dir="auto"></h1>
                      
   #NoLinkedIn:  https://www.linkedin.com/in/roberlande-silva/
                        <h1 dir="auto"></h1>                                                                                                                                                                                                                                                                                                               
-  #DIO:  https://web.dio.me/users/roberlanderrsilva/
+  
                             <h1 dir="auto"></h1>
                             <h1 dir="auto"></h1>
                ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
