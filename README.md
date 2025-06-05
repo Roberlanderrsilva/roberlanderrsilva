@@ -34,6 +34,7 @@
    <img align="center" alt="Roberlande-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/linux--v1.png"/>
    <img align="center" alt="Roberlande-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/ubuntu--v1.png"/>
     <img align="center" alt="Roberlande-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/windows-logo.png"/>
+    <img align="center" alt="Roberlande-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>  
  
   <h1 dir="auto"></h1>
