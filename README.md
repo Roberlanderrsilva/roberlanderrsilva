@@ -48,12 +48,6 @@ Sinta-se à vontade para entrar em contato!
 <h1 dir="auto"></h1>
 ---
    
-### 🐍 Minha Atividade no GitHub:
-
-![GitHub Contribution Snake](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![GitHub Contribution Snake (Dark Mode)](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
- 
-
 <div align="center">
   <div align="center">
   <a href="https://github.com/Roberlanderrsilva">
@@ -63,10 +57,6 @@ Sinta-se à vontade para entrar em contato!
 </div>
   
 <div>
-<h1 dir="auto"></h1>
-  <h1 dir="auto"></h1>
-<div style="display: inline_block"><br>
-   
   <h3><img align="center" line-height= "100" alt="Roberlande-Js"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Roberlande-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Roberlande-CSS" height="40" width="50" line-height= "10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -78,13 +68,9 @@ Sinta-se à vontade para entrar em contato!
    
   </div>  
   
-  
-    
-  </div>
-  ---
+
 
 ### 🐍 Minha Atividade no GitHub:
-
 ![GitHub Contribution Snake](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![GitHub Contribution Snake (Dark Mode)](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
                                                                                                                                                                                                                                                                                                                                                                                                                   
