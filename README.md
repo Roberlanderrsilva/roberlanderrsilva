@@ -1,6 +1,47 @@
-##  Olá, eu sou o Roberlande Silva, busco oportunidade de transição de carreira, Programação e Tecnologias.
-#Acredito que a tecnologia é a ferramenta que conecta pessoas nos proporcionando uma vida melhor e o idiomas derruba as fronteiras e nos qualifica a cidadãos do mundo...
- <h1 dir="auto"></h1>  <a href="https://www.linkedin.com/in/roberlande-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### Olá, eu sou o Roberlande Silva! 👋
+
+🚀 **Em transição de carreira para a programação e tecnologia**, estou animado para contribuir e crescer na área de desenvolvimento.
+
+Acredito profundamente que a **tecnologia conecta pessoas**, simplifica vidas e que o **domínio de idiomas** é essencial para derrubar barreiras e nos tornar verdadeiros cidadãos do mundo. Meu objetivo é unir essas paixões, criando soluções inovadoras e acessíveis.
+
+---
+
+### 🛠️ Minhas Habilidades e Ferramentas:
+
+* **Linguagens**: JavaScript, Shell Script
+* **Front-end**: HTML, CSS
+* **Versionamento**: Git, GitHub
+* **Sistemas Operacionais**: Linux, Ubuntu, Windows
+* **Outros**: [Adicione outras ferramentas/habilidades relevantes aqui, ex: Python, SQL, etc.]
+
+---
+
+### 🌱 Onde estou aprendendo e explorando:
+
+* [Adicione aqui links para cursos, plataformas de estudo ou tecnologias que você está aprendendo ativamente, ex: Alura, FreeCodeCamp, Rocketseat, etc.]
+* Focado em [mencione uma área específica, ex: desenvolvimento web, dados, mobile, etc.]
+
+---
+
+### 💡 Destaques dos meus Projetos:
+
+Aqui você pode ver alguns dos projetos que me orgulho e que demonstram minhas habilidades:
+
+* **Jogo da Velha com HTML, CSS e JavaScript**: Um clássico jogo da velha, mostrando minhas habilidades em lógica front-end.
+* **Projeto MEGA SENA**: Uma aplicação para gerar números da Mega Sena, exercitando lógica e JavaScript.
+* **Script Linux**: Scripts para automação e tarefas no ambiente Linux, demonstrando uso de Shell Script.
+* **[Nome de Outro Projeto Relevante]**: Uma breve descrição do que ele faz e o que você aprendeu com ele.
+
+---
+
+### 📫 Conecte-se comigo:
+
+Sinta-se à vontade para entrar em contato!
+
+* **LinkedIn**: [https://github.com/Roberlanderrsilva]
+* **Email**: [roberlanderrsilva@gmail.com]
+
+---
  
 ### Me segue que retribuo !
 
