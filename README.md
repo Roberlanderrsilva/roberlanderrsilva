@@ -18,8 +18,9 @@ Acredito profundamente que a **tecnologia conecta pessoas**, simplifica vidas e 
 
 ### 🌱 Onde estou aprendendo e explorando:
 
-* [Adicione aqui links para cursos, plataformas de estudo ou tecnologias que você está aprendendo ativamente, ex: Alura, FreeCodeCamp, Rocketseat, etc.]
-* Focado em [mencione uma área específica, ex: desenvolvimento web, dados, mobile, etc.]
+* [https://plataforma.escoladnc.com.br/]
+* [https://www.dio.me/users/roberlanderrsilva]
+* Focado em [Engenharia de Software]
 
 ---
 
