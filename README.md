@@ -39,7 +39,7 @@ Aqui você pode ver alguns dos projetos que me orgulho e que demonstram minhas h
 
 Sinta-se à vontade para entrar em contato!
 
-* **LinkedIn**: [https://github.com/Roberlanderrsilva]
+* **LinkedIn**: [https://www.linkedin.com/in/roberlande-silva/]
 * **Email**: [roberlanderrsilva@gmail.com]
 
 ---
