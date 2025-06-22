@@ -44,11 +44,7 @@ Sinta-se à vontade para entrar em contato!
 
 ### Me segue que retribuo !
 ---
-### 🐍 Minha Atividade no GitHub:
 
-![GitHub Contribution Snake](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![GitHub Contribution Snake (Dark Mode)](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
-  
 
 <div align="center">
   <div align="center">
@@ -58,8 +54,14 @@ Sinta-se à vontade para entrar em contato!
     
 </div>
 
+<div>### 🐍 Minha Atividade no GitHub:
+
+![GitHub Contribution Snake](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Contribution Snake (Dark Mode)](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+  </div>
+
   
-</div>
+<div>
 <h1 dir="auto"></h1>
   <h1 dir="auto"></h1>
 <div style="display: inline_block"><br>
