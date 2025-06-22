@@ -16,15 +16,6 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Roberlanderrsilva
-          # Use svg_out_path para a versão clara
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          # Use svg_out_path para a versão escura, com a paleta
-          # Esta linha será processada pela Action para gerar o segundo SVG
-          # O nome do arquivo será adicionado automaticamente ao final de svg_out_path
-          # Não se preocupe se parecer que só tem um caminho aqui, a action cuida disso.
-          # Apenas certifique-se de que o segundo SVG é gerado corretamente.
-          # Se você quiser um nome de arquivo diferente para o modo escuro,
-          # talvez precise de uma segunda execução da Action ou de uma abordagem diferente.
-          # Por enquanto, vamos manter simples e garantir que o primeiro funcione.
-          # O ideal é que a Action Platane/snk@master cuide da paleta automaticamente
-          # ao usar svg_out_path, mas o aviso indica que 'outputs' não é mais usado.
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
