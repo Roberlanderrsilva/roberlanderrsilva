@@ -33,12 +33,6 @@ Aqui você pode ver alguns dos projetos que me orgulho e que demonstram minhas h
 * **Script Linux**: Scripts para automação e tarefas no ambiente Linux, demonstrando uso de Shell Script.
 * **[Nome de Outro Projeto Relevante]**: Uma breve descrição do que ele faz e o que você aprendeu com ele.
 
-
-### 🐍 Minha Atividade no GitHub:
-
-![GitHub Contribution Snake](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![GitHub Contribution Snake (Dark Mode)](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
- 
 ---
 
 ### 📫 Conecte-se comigo:
@@ -50,7 +44,11 @@ Sinta-se à vontade para entrar em contato!
 
 ### Me segue que retribuo !
 ---
+### 🐍 Minha Atividade no GitHub:
 
+![GitHub Contribution Snake](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Contribution Snake (Dark Mode)](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+ 
 
 <div align="center">
   <div align="center">
