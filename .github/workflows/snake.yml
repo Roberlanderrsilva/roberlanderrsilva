@@ -2,8 +2,8 @@ name: GitHub-Profile-Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda uma vez por dia à meia-noite (UTC)
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 0 * * *" # Runs once a day at midnight (UTC)
+  workflow_dispatch: # Allows manual triggering from the Actions tab
 
 jobs:
   build:
@@ -13,7 +13,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Roberlanderrsilva # <--- MUITO IMPORTANTE: CONFIRME SE SEU NOME DE USUÁRIO É ESSE MESMO!
+          github_user_name: Roberlanderrsilva # Make sure this is your exact GitHub username!
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
