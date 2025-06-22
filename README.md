@@ -81,4 +81,10 @@ Sinta-se à vontade para entrar em contato!
   
     
   </div>
+  ---
+
+### 🐍 Minha Atividade no GitHub:
+
+![GitHub Contribution Snake](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Contribution Snake (Dark Mode)](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
                                                                                                                                                                                                                                                                                                                                                                                                                   
