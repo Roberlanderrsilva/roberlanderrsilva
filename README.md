@@ -8,7 +8,7 @@ Acredito profundamente que a **tecnologia conecta pessoas**, simplifica vidas e 
 
 ### 🛠️ Minhas Habilidades e Ferramentas:
 
-* **Linguagens**: JavaScript, Shell Script
+* **Linguagens**: Python, JavaScript, Shell Script
 * **Front-end**: HTML, CSS
 * **Versionamento**: Git, GitHub
 * **Sistemas Operacionais**: Linux, Ubuntu, Windows
