@@ -1,4 +1,4 @@
-### Olá, eu sou o Roberlande Silva! 👋
+### Olá, eu sou o Roberlande! 👋
 
 🚀 **Em transição de carreira para a programação e tecnologia**, estou animado para contribuir e crescer na área de desenvolvimento.
 
@@ -41,6 +41,7 @@ Sinta-se à vontade para entrar em contato!
 
 * **LinkedIn**: [https://www.linkedin.com/in/roberlande-silva/]
 * **Email**: [roberlanderrsilva@gmail.com]
+* **SALESFORCE**: [https://www.salesforce.com/trailblazer/roberlanderrsilva]
 
 ### Me segue que retribuo !
 ---
