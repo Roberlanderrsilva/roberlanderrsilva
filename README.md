@@ -27,8 +27,14 @@ Sou **Engenheiro de Software e Gestor de Projetos**, unindo uma base sólida de 
   <a href="https://www.linkedin.com/in/roberlande-silva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://wa.me/5592XXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
   <a href="mailto:roberlanderrsilva@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/roberlanderrsilva" target="_blank">
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
   </a>
 </p>
 
