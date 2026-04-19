@@ -1,6 +1,13 @@
 # Olá, eu sou o Roberlande Silva! 👋
 
-Estou em transição de carreira para a área de desenvolvimento e tecnologia, unindo minha experiência em suporte multinational com a paixão pela **Automação Linux e Engenharia de Software**. 🚀
+Sou **Engenheiro de Software e Gestor de Projetos**, unindo uma base sólida de **Bacharel em Direito** com especialização em **TI**. Minha trajetória combina o rigor analítico jurídico com a expertise técnica em **Automação Linux e Engenharia de Sistemas**. 🚀
+
+---
+
+## 🎓 Formação e Expertise:
+* **Engenharia de Software e Gestão de Projetos** (Concluído em 2026) 🎓
+* **Pós-Graduação em TI** (Concluído em 2022) 💻
+* **Bacharel em Direito** ⚖️
 
 ---
 
@@ -12,9 +19,17 @@ Estou em transição de carreira para a área de desenvolvimento e tecnologia, u
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+## 🔗 Conecte-se comigo:
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="https://www.linkedin.com/in/roberlande-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:roberlanderrsilva@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
 </p>
 
 ---
@@ -27,22 +42,5 @@ Estou em transição de carreira para a área de desenvolvimento e tecnologia, u
 
 ---
 
-## 🐍 Atividade no GitHub (A Cobrinha):
+## 🐍 Minha Atividade:
 ![Snake animation](https://github.com/Roberlanderrsilva/Roberlanderrsilva/blob/output/github-contribution-grid-snake.svg)
-
-*(Se a animação não aparecer, é preciso verificar se a GitHub Action 'snake' está configurada corretamente).*
-
----
-
-## 🔗 Conecte-se comigo:
-<p align="left">
-  <a href="https://www.linkedin.com/in/roberlande-silva/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:roberlanderrsilva@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-  <a href="https://www.salesforce.com/trailblazer/roberlanderrsilva" target="_blank">
-    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-  </a>
-</p>
