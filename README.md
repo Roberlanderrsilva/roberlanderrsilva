@@ -1,77 +1,48 @@
-### Olá, eu sou o Roberlande! 👋
+# Olá, eu sou o Roberlande Silva! 👋
 
-🚀 **Em transição de carreira para a programação e tecnologia**, estou animado para contribuir e crescer na área de desenvolvimento.
-
-Acredito profundamente que a **tecnologia conecta pessoas**, simplifica vidas e que o **domínio de idiomas** é essencial para derrubar barreiras e nos tornar verdadeiros cidadãos do mundo. Meu objetivo é unir essas paixões, criando soluções inovadoras e acessíveis.
+Estou em transição de carreira para a área de desenvolvimento e tecnologia, unindo minha experiência em suporte multinational com a paixão pela **Automação Linux e Engenharia de Software**. 🚀
 
 ---
 
-### 🛠️ Minhas Habilidades e Ferramentas:
-
-* **Linguagens**: Python, JavaScript, Shell Script
-* **Front-end**: HTML, CSS
-* **Versionamento**: Git, GitHub
-* **Sistemas Operacionais**: Linux, Ubuntu, Windows
-* **Outros**: [Adicione outras ferramentas/habilidades relevantes aqui, ex: Python, SQL, etc.]
-
----
-
-### 🌱 Onde estou aprendendo e explorando:
-
-* [https://plataforma.escoladnc.com.br/]
-* [https://www.dio.me/users/roberlanderrsilva]
-* Focado em [Engenharia de Software]
+## 🛠️ Minhas Habilidades e Ferramentas:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
-### 💡 Destaques dos meus Projetos:
-
-Aqui você pode ver alguns dos projetos que me orgulho e que demonstram minhas habilidades:
-
-* **Jogo da Velha com HTML, CSS e JavaScript**: Um clássico jogo da velha, mostrando minhas habilidades em lógica front-end.
-* **Projeto MEGA SENA**: Uma aplicação para gerar números da Mega Sena, exercitando lógica e JavaScript.
-* **Script Linux**: Scripts para automação e tarefas no ambiente Linux, demonstrando uso de Shell Script.
-* **[Nome de Outro Projeto Relevante]**: Uma breve descrição do que ele faz e o que você aprendeu com ele.
+## 📈 Minhas Estatísticas:
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberlanderrsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberlanderrsilva&layout=compact&langs_count=7&theme=dracula" />
+</p>
 
 ---
 
-### 📫 Conecte-se comigo:
+## 🐍 Atividade no GitHub (A Cobrinha):
+![Snake animation](https://github.com/Roberlanderrsilva/Roberlanderrsilva/blob/output/github-contribution-grid-snake.svg)
 
-Sinta-se à vontade para entrar em contato!
+*(Se a animação não aparecer, é preciso verificar se a GitHub Action 'snake' está configurada corretamente).*
 
-* **LinkedIn**: [https://www.linkedin.com/in/roberlande-silva/]
-* **Email**: [roberlanderrsilva@gmail.com]
-* **SALESFORCE**: [https://www.salesforce.com/trailblazer/roberlanderrsilva]
-
-### Me segue que retribuo !
 ---
-<h1 dir="auto"></h1>
-<h1 dir="auto"></h1>
----
-   
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/Roberlanderrsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberlanderrsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberlanderrsilva&layout=compact&langs_count=7&theme=dracula"/>
-    
-</div>
-  
-<div>
-  <h3><img align="center" line-height= "100" alt="Roberlande-Js"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Roberlande-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Roberlande-CSS" height="40" width="50" line-height= "10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Roberlande-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/git.png"/>
-   <img align="center" alt="Roberlande-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/linux--v1.png"/>
-   <img align="center" alt="Roberlande-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/ubuntu--v1.png"/>
-    <img align="center" alt="Roberlande-CSS" height="40" width="50" line-height= "10" src="https://img.icons8.com/color/48/undefined/windows-logo.png"/>
-    <img align="center" alt="Roberlande-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   
-  </div>  
-  
 
-
-### 🐍 Minha Atividade no GitHub:
-![GitHub Contribution Snake](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![GitHub Contribution Snake (Dark Mode)](https://github.com/Roberlanderrsilva/Roberlanderrsilva/raw/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
-                                                                                                                                                                                                                                                                                                                                                                                                                  
+## 🔗 Conecte-se comigo:
+<p align="left">
+  <a href="https://www.linkedin.com/in/roberlande-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:roberlanderrsilva@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/roberlanderrsilva" target="_blank">
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  </a>
+</p>
