@@ -1,15 +1,19 @@
 # Olá, eu sou o Roberlande Silva! 👋
 
-Sou **Engenheiro de Software e Gestor de Projetos**, com foco estratégico em **GRC (Governança, Riscos e Conformidade)**. Minha trajetória combina o rigor analítico jurídico com a expertise técnica em **TI** e **Engenharia de Dados** para construir soluções seguras, eficientes e inteligentes. ⚖️📊🚀
+Sou **Engenheiro de Software e Gestor de Projetos**, com foco estratégico em **GRC (Governança, Riscos e Conformidade)**. Minha trajetória combina o rigor jurídico com a expertise técnica em **TI** para construir soluções seguras e eficientes. ⚖️🚀
 
 ---
 
 ## 🎓 Formação e Expertise:
-* **Engenharia de Software e Gestão de Projetos** (2026) 🎓
-* **Formação em Programação & Dados** pela **DILK** e **DIO (Digital Innovation One)** 💻🔥
-* **Bacharel em Direito** ⚖️
-* **Especialista em GRC, Governança de TI & Compliance (LGPD)** 🛡️
-* **Analista de MIS & BI** (Especialista em Automação de Dashboards) 📈
+
+### Formações Recentes:
+* **Engenharia de Software e Gestão de Projetos** (Concluído - Abril/2026) 🎓
+* **Pós-Graduação: Docência do Ensino Básico e Superior** (Concluído - Março/2026) 🏫
+* **Pós-Graduação: Tecnologia da Informação** (Concluído - 2023) 💻
+
+### Formações Anteriores:
+* **Pós-Graduação: Direito Administrativo e Licitações** (Concluído - 2022) 📜
+* **Bacharel em Direito** (Concluído - 2020) ⚖️
 
 ---
 
@@ -17,11 +21,10 @@ Sou **Engenheiro de Software e Gestor de Projetos**, com foco estratégico em **
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/LGPD_&_Compliance-004D40?style=flat&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-008FD3?style=flat&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -36,9 +39,6 @@ Sou **Engenheiro de Software e Gestor de Projetos**, com foco estratégico em **
   </a>
   <a href="https://web.dio.me/users/roberlanderrsilva" target="_blank">
     <img src="https://img.shields.io/badge/DIO-323330?style=for-the-badge&logo=dice&logoColor=white" />
-  </a>
-  <a href="https://dilk.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/DILK_Learning-E63946?style=for-the-badge&logo=codecademy&logoColor=white" />
   </a>
   <a href="https://www.salesforce.com/trailblazer/roberlanderrsilva" target="_blank">
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
