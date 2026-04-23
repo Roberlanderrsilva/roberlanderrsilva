@@ -4,16 +4,19 @@ Sou **Engenheiro de Software e Gestor de Projetos**, com foco estratégico em **
 
 ---
 
-## 🎓 Formação e Expertise:
+### 🎓 Formação e Expertise:
 
-### Formações Recentes:
-* **Engenharia de Software e Gestão de Projetos** (Concluído - Abril/2026) 🎓
+
+* **Pós-Graduação: Engenharia de Software e Gestão de Projetos** (Concluído - Abril/2026) 🎓
 * **Pós-Graduação: Docência do Ensino Básico e Superior** (Concluído - Março/2026) 🏫
 * **Pós-Graduação: Tecnologia da Informação** (Concluído - 2023) 💻
 * **Pós-Graduação: Direito Administrativo e Licitações** (Concluído - 2022) 📜
+
+### Graduação:
 * **Bacharel em Direito** (Concluído - 2020) ⚖️
 
 ---
+
 
 ## 🛠️ Stack Técnica & Governança:
 <p align="left">
