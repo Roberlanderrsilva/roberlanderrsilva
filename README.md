@@ -10,8 +10,6 @@ Sou **Engenheiro de Software e Gestor de Projetos**, com foco estratégico em **
 * **Engenharia de Software e Gestão de Projetos** (Concluído - Abril/2026) 🎓
 * **Pós-Graduação: Docência do Ensino Básico e Superior** (Concluído - Março/2026) 🏫
 * **Pós-Graduação: Tecnologia da Informação** (Concluído - 2023) 💻
-
-### Formações Anteriores:
 * **Pós-Graduação: Direito Administrativo e Licitações** (Concluído - 2022) 📜
 * **Bacharel em Direito** (Concluído - 2020) ⚖️
 
@@ -34,6 +32,9 @@ Sou **Engenheiro de Software e Gestor de Projetos**, com foco estratégico em **
   <a href="https://www.linkedin.com/in/roberlande-silva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/Roberlanderrsilva/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://api.whatsapp.com/send?phone=5541999013303" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -47,12 +48,13 @@ Sou **Engenheiro de Software e Gestor de Projetos**, com foco estratégico em **
 
 ---
 
-![Snake animation](https://github.com/Roberlanderrsilva/Roberlanderrsilva/blob/output/github-contribution-grid-snake.svg)
-
 ## 📈 Estatísticas & Atividade:
+
+![Snake animation](https://github.com/Roberlanderrsilva/Roberlanderrsilva/blob/output/github-contribution-grid-snake.svg)
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberlanderrsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberlanderrsilva&layout=compact&langs_count=7&theme=dracula" />
+
 </p>
 
 ---
